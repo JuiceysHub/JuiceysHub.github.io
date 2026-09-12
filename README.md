@@ -1,1 +1,1 @@
-# JuiceysHub.github.io
+setprop debug.oculus.headlock 3
